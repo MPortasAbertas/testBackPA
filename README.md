@@ -4,17 +4,20 @@ Hoje na Portas Abertas existe uma quantidade considerável de livros, é preciso
 O sistema deve conter:
 
 Login 
+    
     • Usuário
     • Senha
     • Nome
     • Deve conter autenticação
 
 Biblioteca
+    
     • Nome do livro
     • Quantidade
     • Valor
 
 CRUD
+    
     • Pesquisar
     • Selecionar
     • Atualizar
@@ -22,6 +25,7 @@ CRUD
     • Deletar
 
 Observações:
+    
     • O foco da avaliação é analisar sua forma de desenvolver. O sistema precisa ser funcional e não se preocupe com o visual.
     • As operações CRUD citadas acima devem ser gravadas no banco de dados.
     • O Login deve conter autenticação, com senha criptografada.
